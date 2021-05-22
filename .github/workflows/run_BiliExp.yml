@@ -2,7 +2,7 @@ name: "哔哩哔哩–––呼呼呼"
 
 on:
   schedule:
-    - cron: "0 */5 * * *" # 每小时执行一次
+    - cron: "0 */8 * * *" # 每小时执行一次
   watch:
     types: started
   workflow_dispatch:
