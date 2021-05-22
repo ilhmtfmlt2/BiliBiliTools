@@ -6,7 +6,7 @@ BiliExp
 
 | ↳ Stargazers | ↳ Forkers |
 |  :---:  | :---:  |
-| [![Stargazers repo roster for @ilhmtfmlt2/btools](https://reporoster.com/stars/ilhmtfmlt2/btools)](https://github.com/ilhmtfmlt2/btools/stargazers)  | [![Forkers repo roster for @ilhmtfmlt2/btools](https://reporoster.com/forks/ilhmtfmlt2/btools)](https://github.com/ilhmtfmlt2/btools/network/members) |
+| [![Stargazers repo roster for @ilhmtfmlt2/BiliBiliTools](https://reporoster.com/stars/ilhmtfmlt2/BiliBiliTools)](https://github.com/ilhmtfmlt2/BiliBiliTools/stargazers)  | [![Forkers repo roster for @ilhmtfmlt2/BiliBiliTools](https://reporoster.com/forks/ilhmtfmlt2/BiliBiliTools)](https://github.com/ilhmtfmlt2/BiliBiliTools/network/members) |
 
 # 项目说明
 
